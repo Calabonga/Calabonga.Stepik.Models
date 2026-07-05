@@ -2,7 +2,7 @@
 
 namespace Calabonga.Stepik.Models
 {
-    public sealed class CSharp
+    public sealed class Csharp
     {
         /// <summary>
         /// Limit milliseconds for execution

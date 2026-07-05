@@ -8,6 +8,6 @@ namespace Calabonga.Stepik.Models
         /// Template of the code for Csharp
         /// </summary>
         [JsonPropertyName("c#")]
-        public string CSharp { get; set; }
+        public string? CSharp { get; set; }
     }
 }
