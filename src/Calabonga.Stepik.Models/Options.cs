@@ -3,6 +3,9 @@ using System.Text.Json.Serialization;
 
 namespace Calabonga.Stepik.Models
 {
+    /// <summary>
+    /// Represents various options and limits for code execution and templates.
+    /// </summary>
     public sealed class Options
     {
         /// <summary>

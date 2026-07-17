@@ -2,6 +2,9 @@
 
 namespace Calabonga.Stepik.Models
 {
+    /// <summary>
+    /// Represents footer lines count for code templates per language.
+    /// </summary>
     public sealed class CodeTemplatesFooterLinesCount
     {
         /// <summary>

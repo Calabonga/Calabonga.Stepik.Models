@@ -2,6 +2,9 @@
 
 namespace Calabonga.Stepik.Models
 {
+    /// <summary>
+    /// Represents runtime limits for C# code execution.
+    /// </summary>
     public sealed class Csharp
     {
         /// <summary>

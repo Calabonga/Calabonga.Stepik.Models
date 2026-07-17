@@ -2,6 +2,9 @@
 
 namespace Calabonga.Stepik.Models
 {
+    /// <summary>
+    /// Represents header lines count for code templates per language.
+    /// </summary>
     public sealed class CodeTemplatesHeaderLinesCount
     {
         /// <summary>
